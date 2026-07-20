@@ -8,7 +8,7 @@ persona = {
 
 datos = {} # Dicc. vacio
 
-# Diccioarios acepta varios tipos de datos, incluso otros diccionarios
+# Diccionarios acepta varios tipos de datos, incluso otros diccionarios
 usuario = {
     "nombre": "Miguel",
     "edad": 25,
